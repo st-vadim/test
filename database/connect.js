@@ -1,5 +1,6 @@
 const mongoose = require("mongoose");
-console.log("dev1");
+console.log("dev2");
+
 const DB_URL = "mongodb://localhost:27017/pindie";
 
 async function connectToDatabase() {
